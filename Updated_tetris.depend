@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1638095142 source:c:\users\giuseppe\desktop\c++\updated_tetris\main.cpp
+	<iostream>
+	"Matrix.h"
+	"Screen_buffer.h"
+	"Tetromino.h"
+	"Tetrominos.h"
+	<array>
+	"Logic.h"
+	<conio.h>
+	<thread>
+	<cstdlib>
+	<vector>
+	<ctime>
+
+1637960375 c:\users\giuseppe\desktop\c++\updated_tetris\matrix.h
+	<vector>
+
+1638094373 c:\users\giuseppe\desktop\c++\updated_tetris\screen_buffer.h
+	<windows.h>
+
+1638094394 source:c:\users\giuseppe\desktop\c++\updated_tetris\screen_buffer.cpp
+	"Screen_buffer.h"
+
+1638021831 source:c:\users\giuseppe\desktop\c++\updated_tetris\tetrominos.cpp
+	"Tetrominos.h"
+
+1638013799 c:\users\giuseppe\desktop\c++\updated_tetris\tetrominos.h
+	<string>
+
+1638091385 source:c:\users\giuseppe\desktop\c++\updated_tetris\logic.cpp
+	"Logic.h"
+	<error.h>
+	<iostream>
+
+1638090882 c:\users\giuseppe\desktop\c++\updated_tetris\logic.h
+	<string>
+	"Tetromino.h"
+	"Tetrominos.h"
+	"Matrix.h"
+	<array>
+	<vector>
+
+1638026090 c:\users\giuseppe\desktop\c++\updated_tetris\tetromino.h
+	<string>
+
+1638033850 source:c:\users\giuseppe\desktop\c++\updated_tetris\tetromino.cpp
+	"Tetromino.h"
+
